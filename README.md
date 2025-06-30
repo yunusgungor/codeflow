@@ -1,6 +1,3 @@
-
----
-
 ## 🔄 The Evolutionary Workflow Cycle
 
 Codeflow operates in a continuous, state-aware loop. An error can trigger the `Error Recovery` state at any point, ensuring stability.
