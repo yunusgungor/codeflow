@@ -11,31 +11,6 @@ Codeflow operates in a continuous, state-aware loop. An error can trigger the `E
 
 ---
 
-## 🚀 Getting Started
-
-To initialize a project with the Codeflow system:
-
-1.  **Clone the Repository:**
-    ```bash
-    git clone https://github.com/your-username/codeflow-system.git
-    cd codeflow-system
-    ```
-
-2.  **Install Dependencies:**
-    The automation scripts require Node.js.
-    ```bash
-    npm install
-    ```
-
-3.  **Initialize the Project:**
-    Run the initialization script. This will create the `.project_meta` directory structure and default configuration files.
-    ```bash
-    node .project_meta/.automation/scripts/init.js
-    ```
-    > ✅ Your project is now under Codeflow management. You can start interacting with the Codeflow Manager AI.
-
----
-
 ## 🤖 How to Interact with the Codeflow Manager
 
 You act as the **Project Lead**, giving high-level commands. The AI acts as the **Codeflow Manager**, executing them according to the framework.
